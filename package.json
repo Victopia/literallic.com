@@ -1,0 +1,19 @@
+{
+  "name": "literallic.com",
+  "description": "literallic.com is a website for word publishing.",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "express": "^4.13.0",
+    "i18n": "~0.5",
+    "json-schema": "~0.2",
+    "mongoose": "^3.8",
+    "yamljs": "^0.2.3"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-jasmine": "2.x",
+    "gulp-notify": "^2.2",
+    "dox": "^0.6"
+  }
+}
